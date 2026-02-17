@@ -1,1 +1,1 @@
-# Implemented micrograd library for learning forward and backpropopgation
+# Implemented micrograd library for expermenting with forward and backpropopgation
